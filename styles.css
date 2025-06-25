@@ -55,10 +55,11 @@ body{
 
 /* content */
 .content{
+  margin: 40px;
   text-align: center;
 }
 .content h1{
-  font-size: 48px;
+  font-size: 72px;
   color: #ffffff;
 }
 .content h2{
