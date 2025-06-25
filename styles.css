@@ -45,7 +45,7 @@ body{
 }
 
 .header-right a.button {
-  background-color: #c080ff;
+  background-color: #9B003F;
   color: white;
   padding: 8px 16px;
   border-radius: 10px;
@@ -69,4 +69,3 @@ body{
   text-align: left;
   margin:20px 20px 0px;
 }
-.green{color: #80ffbf;}
